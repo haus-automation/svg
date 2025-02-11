@@ -5,7 +5,7 @@
   <ellipse style="fill: rgb(216, 216, 216);" cx="149" cy="36" rx="8" ry="8"/>
   <ellipse style="stroke-width: 0px; fill: rgb(123, 123, 123);" cx="25" cy="36" rx="2.5" ry="2.5"/>
   <ellipse style="stroke-width: 0px; fill: rgb(123, 123, 123);" cx="149" cy="36" rx="2.5" ry="2.5"/>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 24.9825px; line-height: 28.7799px; stroke: rgb(255, 0, 0); stroke-width: 0.499825px; text-anchor: middle; white-space: pre;" transform="matrix(1, 0, 0, 1.0007, -2.545218, -9.499663)" x="10.84" y="54.121">+</text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 24.9825px; line-height: 28.7799px; stroke: rgb(0, 0, 0); stroke-width: 0.499825px; text-anchor: middle; white-space: pre;" transform="matrix(1, 0, 0, 1.0007, 154.454788, -9.499663)" x="10.84" y="54.121">−</text>
+  <path d="M 9.803 51.23 L 9.803 46.326 L 4.936 46.326 L 4.936 44.277 L 9.803 44.277 L 9.803 39.41 L 11.877 39.41 L 11.877 44.277 L 16.744 44.277 L 16.744 46.326 L 11.877 46.326 L 11.877 51.23 Z" transform="matrix(1, 0, 0, 1.0007, -2.545218, -9.499663)" style="fill: rgb(51, 51, 51); line-height: 28.7799px; stroke-width: 0.499825px; white-space: pre; stroke: rgb(206, 0, 0);"/>
+  <path d="M 16.744 46.326 L 4.936 46.326 L 4.936 44.277 L 16.744 44.277 Z" transform="matrix(1, 0, 0, 1.0007, 154.454788, -9.499663)" style="fill: rgb(51, 51, 51); line-height: 28.7799px; stroke: rgb(0, 0, 0); stroke-width: 0.499825px; white-space: pre;"/>
   <rect style="fill: rgb(39, 93, 255);" x="77.5" y="20.5" width="19" height="31" rx="9" ry="9"/>
 </svg>
