@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 260" width="500px" height="260px">
+  <path style="stroke: rgb(0, 0, 0); stroke-width: 2px; fill: none;" d="M 90.987 194.416 C 90.952 194.416 83.676 195.117 79.508 190.099 C 75.334 185.074 72.743 172.417 72.743 172.417 L 52.424 94.461 C 52.424 94.461 47.682 82.313 59.297 66.824 C 68.814 54.132 88.49 55.096 88.49 55.096 L 251.074 56.171 L 413.659 55.096 C 413.659 55.096 433.335 54.132 442.852 66.824 C 454.467 82.313 449.725 94.461 449.725 94.461 L 429.406 172.417 C 429.406 172.417 426.815 185.074 422.641 190.099 C 418.473 195.117 411.197 194.416 411.162 194.416 C 411.151 194.416 312.823 194.271 251.074 194.179 C 189.326 194.271 90.998 194.416 90.987 194.416 Z">
+    <title>Outside</title>
+  </path>
+  <path d="M 388.46 71.923 L 416.573 71.923 L 416.573 103.111 L 388.46 103.111 Z M 345.108 71.923 L 373.221 71.923 L 373.221 103.111 L 345.108 103.111 Z M 301.759 71.923 L 329.872 71.923 L 329.872 103.111 L 301.759 103.111 Z M 258.41 71.923 L 286.523 71.923 L 286.523 103.111 L 258.41 103.111 Z M 215.061 71.923 L 243.174 71.923 L 243.174 103.111 L 215.061 103.111 Z M 171.712 71.923 L 199.825 71.923 L 199.825 103.111 L 171.712 103.111 Z M 128.363 71.923 L 156.476 71.923 L 156.476 103.111 L 128.363 103.111 Z M 85.014 71.923 L 113.127 71.923 L 113.127 103.111 L 85.014 103.111 Z" style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2px;">
+    <title>Top</title>
+  </path>
+  <path d="M 388.46 147.894 L 416.573 147.894 L 416.573 179.082 L 388.46 179.082 L 388.46 147.894 Z M 345.108 147.894 L 373.221 147.894 L 373.221 179.082 L 345.108 179.082 L 345.108 147.894 Z M 301.759 147.894 L 329.872 147.894 L 329.872 179.082 L 301.759 179.082 L 301.759 147.894 Z M 258.41 147.894 L 286.523 147.894 L 286.523 179.082 L 258.41 179.082 L 258.41 147.894 Z M 215.061 147.894 L 243.174 147.894 L 243.174 179.082 L 215.061 179.082 L 215.061 147.894 Z M 171.712 147.894 L 199.825 147.894 L 199.825 179.082 L 171.712 179.082 L 171.712 147.894 Z M 128.363 147.894 L 156.476 147.894 L 156.476 179.082 L 128.363 179.082 L 128.363 147.894 Z M 85.014 147.894 L 113.127 147.894 L 113.127 179.082 L 85.014 179.082 L 85.014 147.894 Z" style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2px;">
+    <title>Bottom</title>
+  </path>
+  <text style="font-family: Arial, sans-serif; font-size: 20px; font-weight: 700; text-anchor: middle; white-space: pre;" y="170.967" x="402.48">16</text>
+  <text style="font-family: Arial, sans-serif; font-size: 20px; font-weight: 700; text-anchor: middle; white-space: pre;" x="359.115" y="172.201" transform="matrix(1, 0, 0, 1, 0, -1.233743)">15<tspan x="359.114990234375" dy="1em">​</tspan></text>
+  <text style="font-family: Arial, sans-serif; font-size: 20px; font-weight: 700; text-anchor: middle; white-space: pre;" x="359.115" y="172.201" transform="matrix(1, 0, 0, 1, -43.778896, -1.233743)">14<tspan x="359.114990234375" dy="1em">​</tspan></text>
+  <text style="font-family: Arial, sans-serif; font-size: 20px; font-weight: 700; text-anchor: middle; white-space: pre;" x="359.115" y="172.201" transform="matrix(1, 0, 0, 1, -86.901596, -1.233743)">13<tspan x="359.114990234375" dy="1em">​</tspan></text>
+  <text style="font-family: Arial, sans-serif; font-size: 20px; font-weight: 700; text-anchor: middle; white-space: pre;" x="359.115" y="172.201" transform="matrix(1, 0, 0, 1, -130.470749, -1.233743)">12<tspan x="359.114990234375" dy="1em">​</tspan></text>
+  <text style="font-family: Arial, sans-serif; font-size: 20px; font-weight: 700; text-anchor: middle; white-space: pre;" x="359.115" y="172.201" transform="matrix(1, 0, 0, 1, -174.044586, -1.233743)">11<tspan x="359.114990234375" dy="1em">​</tspan></text>
+  <text style="font-family: Arial, sans-serif; font-size: 20px; font-weight: 700; text-anchor: middle; white-space: pre;" x="359.115" y="172.201" transform="matrix(1, 0, 0, 1, -217.357117, -1.233743)">10<tspan x="359.114990234375" dy="1em">​</tspan></text>
+  <text style="font-family: Arial, sans-serif; font-size: 20px; font-weight: 700; text-anchor: middle; white-space: pre;" x="359.115" y="172.201" transform="matrix(1, 0, 0, 1, -260.052551, -1.233743)">9<tspan x="359.114990234375" dy="1em">​</tspan></text>
+  <text style="font-family: Arial, sans-serif; font-size: 20px; font-weight: 700; text-anchor: middle; white-space: pre;" x="402.562" y="95.044">8</text>
+  <text style="font-family: Arial, sans-serif; font-size: 20px; font-weight: 700; text-anchor: middle; white-space: pre;" x="359.256" y="95.044">7</text>
+  <text style="font-family: Arial, sans-serif; font-size: 20px; font-weight: 700; text-anchor: middle; white-space: pre;" x="316.522" y="95.044">6</text>
+  <text style="font-family: Arial, sans-serif; font-size: 20px; font-weight: 700; text-anchor: middle; white-space: pre;" x="272.033" y="95.044">5</text>
+  <text style="font-family: Arial, sans-serif; font-size: 20px; font-weight: 700; text-anchor: middle; white-space: pre;" x="228.996" y="95.044">4</text>
+  <text style="font-family: Arial, sans-serif; font-size: 20px; font-weight: 700; text-anchor: middle; white-space: pre;" x="185.517" y="95.044">3</text>
+  <text style="font-family: Arial, sans-serif; font-size: 20px; font-weight: 700; text-anchor: middle; white-space: pre;" x="143.043" y="95.044">2</text>
+  <text style="font-family: Arial, sans-serif; font-size: 20px; font-weight: 700; text-anchor: middle; white-space: pre;" x="99.062" y="95.044">1</text>
+</svg>
